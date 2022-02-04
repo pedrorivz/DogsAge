@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4256B7C627ACE88D0004B9C1 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = 4256B7C527ACE88D0004B9C1 /* cachorro.png */; };
 		426B2E3D27ACE797007ADA0C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426B2E3C27ACE797007ADA0C /* AppDelegate.swift */; };
 		426B2E3F27ACE797007ADA0C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426B2E3E27ACE797007ADA0C /* SceneDelegate.swift */; };
 		426B2E4127ACE797007ADA0C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426B2E4027ACE797007ADA0C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4256B7C527ACE88D0004B9C1 /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachorro.png; sourceTree = "<group>"; };
 		426B2E3927ACE797007ADA0C /* DogAgeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DogAgeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		426B2E3C27ACE797007ADA0C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		426B2E3E27ACE797007ADA0C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		426B2E3B27ACE797007ADA0C /* DogAgeV1 */ = {
 			isa = PBXGroup;
 			children = (
+				4256B7C527ACE88D0004B9C1 /* cachorro.png */,
 				426B2E3C27ACE797007ADA0C /* AppDelegate.swift */,
 				426B2E3E27ACE797007ADA0C /* SceneDelegate.swift */,
 				426B2E4027ACE797007ADA0C /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4256B7C627ACE88D0004B9C1 /* cachorro.png in Resources */,
 				426B2E4927ACE798007ADA0C /* LaunchScreen.storyboard in Resources */,
 				426B2E4627ACE798007ADA0C /* Assets.xcassets in Resources */,
 				426B2E4427ACE797007ADA0C /* Main.storyboard in Resources */,
